@@ -25,4 +25,4 @@ Visualizaciones en Python y Scripts en Power BI.
 - Archivo 2 "Sprint 8.2_Entrega" .ipynb de Jupyter Notebook con los scripts correspondientes a cada visualización del informe de Power BI.
 - Archivo 3 "Sprint 8.2_Entrega" .pbix con el informe solicitado.
 - Archivo 4 "Dashboard Sprint 8.2" .pdf con el informe de Power BI exportado.
-- Archico 5 "Sprint 8_Notas" .pdf contiene el detalle de transformaciones realizadas en Power BI para la correcta visualización de los gráficos.
+- Archivo 5 "Sprint 8_Notas" .pdf contiene el detalle de transformaciones realizadas en Power BI para la correcta visualización de los gráficos.
